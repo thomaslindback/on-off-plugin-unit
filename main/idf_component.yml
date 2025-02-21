@@ -1,0 +1,4 @@
+dependencies:
+  espressif/esp_matter: "^1.4.0"
+  esp_bsp_devkit:
+    version: "1.0.0"
