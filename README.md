@@ -19,3 +19,7 @@ https://docs.espressif.com/projects/esp-matter/en/latest/esp32/developing.html#c
 
 Matter shell is enabled.
 Check the onboarding code: matter onboardingcodes none
+
+
+python.exe .\components\esptool_py\esptool\esptool.py erase_region 0xC000 0x1000
+
